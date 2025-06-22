@@ -87,7 +87,4 @@ Type: Self-paced Virtual Internship
 
 Modules: Data cleaning, dashboarding, data storytelling
 
-📬 Contact Me
-📧 Email: your.email@example.com
 
-💼 LinkedIn: linkedin.com/in/yourname
